@@ -5648,7 +5648,7 @@ monsters = [
     "saveas": "Fighter: 7",
     "specialbonus": 0,
     "treasure": "B",
-    "xp": "670,       8 HD 875, 9 HD 1,075, 10 HD 1,300, 11 HD 1,575, 12 HD 1,875"
+    "xp": "670"
 },
 {
     "armorclass": "19",
@@ -5679,7 +5679,7 @@ monsters = [
     "saveas": "Fighter: 8",
     "specialbonus": 0,
     "treasure": "B",
-    "xp": "8"
+    "xp": "875"
 },
 {
     "armorclass": "20",
