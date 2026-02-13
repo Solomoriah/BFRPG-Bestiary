@@ -240,7 +240,7 @@ No. Appearing: 1, Wild 1, Lair 1
 Save As: Fighter: 7
 Morale: 9
 Treasure Type: B
-XP: 670,       8 HD 875, 9 HD 1,075, 10 HD 1,300, 11 HD 1,575, 12 HD 1,875
+XP: 670
 
 Hydras are reptilian creatures with multiple heads.  They are bad-tempered and territorial, but not particularly cunning.
 The Armor Class and Hit Dice of a hydra are keyed to the number of heads; specifically, a hydra has a number of Hit Dice exactly equal to the number of heads, and an Armor Class equal to the number of heads plus 11.  Note that these statistics do not change if an individual loses heads, as described below.
@@ -259,7 +259,7 @@ No. Appearing: 1, Wild 1, Lair 1
 Save As: Fighter: 8
 Morale: 9
 Treasure Type: B
-XP: 8
+XP: 875
 
 Hydras are reptilian creatures with multiple heads.  They are bad-tempered and territorial, but not particularly cunning.
 The Armor Class and Hit Dice of a hydra are keyed to the number of heads; specifically, a hydra has a number of Hit Dice exactly equal to the number of heads, and an Armor Class equal to the number of heads plus 11.  Note that these statistics do not change if an individual loses heads, as described below.
