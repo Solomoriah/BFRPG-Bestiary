@@ -7751,7 +7751,7 @@ var monsters = [
     "saveas": "Fighter: 10",
     "specialbonus": 1,
     "treasure": "None",
-    "xp": "20 HD 5,450"
+    "xp": "5450"
 },
 {
     "armorclass": "16",
@@ -7926,7 +7926,7 @@ var monsters = [
     "saveas": "Fighter: 8",
     "specialbonus": 1,
     "treasure": "None",
-    "xp": "15 HD 2,975"
+    "xp": "2975"
 },
 {
     "armorclass": "11",
